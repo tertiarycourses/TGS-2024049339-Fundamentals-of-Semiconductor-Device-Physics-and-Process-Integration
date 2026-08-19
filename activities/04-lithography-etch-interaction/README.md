@@ -8,6 +8,8 @@
 
 **TSC alignment:** A3
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 141-217 and Activity 4 overview slide 444.
+
 ## Workplace scenario
 
 Contact resistance rises after a lithography focus excursion and a longer-than-normal plasma over-etch.

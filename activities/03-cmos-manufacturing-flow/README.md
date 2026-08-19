@@ -8,6 +8,8 @@
 
 **TSC alignment:** A2
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 259-298 and Activity 3 overview slide 443.
+
 ## Workplace scenario
 
 A product transfer team must turn a high-level CMOS description into a controlled manufacturing flow for a pilot lot.

@@ -8,6 +8,8 @@
 
 **TSC alignment:** A3
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 218-237 and Activity 5 overview slide 445.
+
 ## Workplace scenario
 
 Threshold voltage drifts low after a revised rapid thermal anneal recipe is introduced to improve activation.

@@ -1,5 +1,15 @@
 # Courseware Changelog
 
+## v7.0 - 20 Aug 2026
+
+- Rebuilt all 454 slides using the supplied Master Mobile Photography v12.0 design language: white canvas, compact blue/teal/violet section markers, strong left-aligned titles, structured concept cards, full-width flows and evidence-led activity overviews.
+- Preserved the full v5 instructional sequence, all 407 instructional pictures and the three safe admin/cover visuals; every imported image is reinserted with aspect-preserving contain geometry instead of stretched 4:3 placement. The single unsafe cross-course QR screenshot remains excluded.
+- Added six semiconductor-specific ImageGen visuals for the cover, device physics, wafer fabrication, process integration, reliability and advanced packaging.
+- Replaced the cross-course certification screenshot with a neutral semiconductor packaging visual and verified that no other course code, course-run ID or live QR remains.
+- Kept detailed procedures out of the PPT; eight activity overview slides show only scenario, reasoning frame, deliverable and evidence location.
+- Realigned Learner Guide v4.0, Lesson Plan v5.0 and every activity README/PDF to the corrected v7 slide ranges, exact activity titles, activity durations and activity slide numbers.
+- Revised the WA and Case Study to v2.1 with explicit activity traceability while preserving the original instrument types, two-item counts, timings and K/A mappings. No practice exam was added.
+
 ## v6.0 - 20 Aug 2026
 
 - Preserved the full 446-slide v5 legacy coverage and embedded semiconductor graphics.

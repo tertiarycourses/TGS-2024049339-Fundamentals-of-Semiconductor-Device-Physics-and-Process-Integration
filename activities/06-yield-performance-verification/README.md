@@ -8,6 +8,8 @@
 
 **TSC alignment:** K2 · A4
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 316-373 and Activity 6 overview slide 446.
+
 ## Workplace scenario
 
 A wafer-sort yield decline is concentrated near the edge while centre-die parametric results remain within specification.

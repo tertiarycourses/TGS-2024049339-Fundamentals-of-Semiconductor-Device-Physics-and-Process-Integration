@@ -9,7 +9,7 @@ WSQ courseware for **TGS-2024049339**, aligned to the Process Integration TSC (*
 
 ## Public learner materials
 
-- `courseware/` - current trainer slide deck, learner slide PDF, Learner Guide and Lesson Plan.
+- `courseware/` - current trainer slide deck, learner slide PDF, Learner Guide (DOCX, PDF and Markdown) and Lesson Plan.
 - `activities/` - eight self-contained activity folders with procedures, scenarios, worksheets, evidence checklists and printable PDFs.
 
 The assessment papers and answer keys are confidential trainer materials and are intentionally excluded from this public repository.
@@ -24,6 +24,8 @@ The assessment papers and answer keys are confidential trainer materials and are
 
 ## Version
 
-Current package: **v6.0**, released 20 Aug 2026.
+Current package: **v7.0**, released 20 Aug 2026.
+
+The trainer deck follows the `Master Mobile Photography v12.0` visual system. Learner procedures remain in the Learner Guide and the eight individual activity folders.
 
 © 2026 Tertiary Infotech Academy Pte Ltd · UEN 201200696W

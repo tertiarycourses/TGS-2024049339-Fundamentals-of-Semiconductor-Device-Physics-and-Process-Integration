@@ -8,6 +8,8 @@
 
 **TSC alignment:** A5
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 420-440 and Activity 8 overview slide 448.
+
 ## Workplace scenario
 
 The integration review board must disposition a yield loss involving etch overrun, dielectric stress and weak SPC reaction discipline.

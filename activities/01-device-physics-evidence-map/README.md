@@ -8,6 +8,8 @@
 
 **TSC alignment:** K1 · A1
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 18-105 and Activity 1 overview slide 441.
+
 ## Workplace scenario
 
 A new process engineer must explain why doping, junction bias and oxide thickness matter before reviewing a CMOS traveller.

@@ -8,6 +8,8 @@
 
 **TSC alignment:** K2 · A4
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 374-385 and Activity 7 overview slide 447.
+
 ## Workplace scenario
 
 Qualification finds early-life gate failures and resistance drift in upper-metal interconnects after accelerated stress.

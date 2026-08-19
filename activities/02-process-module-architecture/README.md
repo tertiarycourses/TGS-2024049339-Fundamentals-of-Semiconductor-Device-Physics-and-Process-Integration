@@ -8,6 +8,8 @@
 
 **TSC alignment:** A1
 
+**PPT alignment:** Trainer Slides v7.0, concept slides 120-258 and Activity 2 overview slide 442.
+
 ## Workplace scenario
 
 A fab is onboarding a mixed-experience team and needs a common architecture view that separates FEOL, MOL, BEOL and packaging loops.
