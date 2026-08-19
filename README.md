@@ -24,8 +24,8 @@ The assessment papers and answer keys are confidential trainer materials and are
 
 ## Version
 
-Current package: **v7.0**, released 20 Aug 2026.
+Current package: **v7.1**, released 20 Aug 2026.
 
-The trainer deck follows the `Master Mobile Photography v12.0` visual system. Learner procedures remain in the Learner Guide and the eight individual activity folders.
+The trainer deck follows the current WSQ visual system. The legacy deck is used only as an instructional-content and asset source; its image-only pages are integrated into explanatory slides. Learner procedures remain in the Learner Guide and the eight individual activity folders.
 
 © 2026 Tertiary Infotech Academy Pte Ltd · UEN 201200696W

@@ -11,7 +11,7 @@
 - Source: `reference/WSQ - Master Trainer Slides - Fundamentals of Semiconductor Device Physics and Process Integration - v5.pptx`
 - Source slide count: 446
 - Embedded pictures: 411
-- Treatment: slides 16-440 retain the legacy sequence, instructional text and all 407 embedded instructional pictures. The safe legacy wafer, learner-introduction and LMS visuals from slides 1, 4 and 15 are also retained. Images are reinserted with aspect-preserving contain geometry. Admin slides 1-15, eight activity overviews at slides 441-448, and the closing block at slides 449-454 are rebuilt to current course requirements.
+- Treatment in v7.1: all legacy instructional text and safe embedded instructional pictures are retained, but the old deck layout is not copied. Seventeen image-only source slides plus the standalone packaging-video reference are merged into nearby explanatory slides, eliminating standalone visual/video-reference pages. The optional video URL is kept in Activity 8 rather than the PPT. Images use aspect-preserving contain geometry. Admin, activity and closing slide numbers are generated in `slide_map.json` and drive the LG, LP, activity packs and assessment references.
 - Safety exception: the legacy slide 442 cross-course certificate/TRAQOM QR screenshot is intentionally excluded because it exposes another course reference and course-run ID.
 - Corrected ranges: LU1 slides 16-298; LU2 slides 299-440; activities slides 441-448.
 

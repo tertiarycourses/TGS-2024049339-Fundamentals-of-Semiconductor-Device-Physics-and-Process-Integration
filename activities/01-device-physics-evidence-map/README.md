@@ -8,7 +8,7 @@
 
 **TSC alignment:** K1 · A1
 
-**PPT alignment:** Trainer Slides v7.0, concept slides 18-105 and Activity 1 overview slide 441.
+**PPT alignment:** Trainer Slides v7.1, concept slides 18-104 and Activity 1 overview slide 423.
 
 ## Workplace scenario
 
@@ -49,6 +49,8 @@ Include your completed worksheet, any calculations or annotated diagrams, the ev
 ## Verification
 
 Before submission, ask a peer to challenge one causal link. Revise the conclusion if the challenge reveals that evidence and inference have been mixed. Your final response must distinguish: observed fact, interpretation, decision, and follow-up check.
+
+
 
 ## Troubleshooting
 

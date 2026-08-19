@@ -1,5 +1,12 @@
 # Courseware Changelog
 
+## v7.1 - 20 Aug 2026
+
+- Consolidated all 17 image-only legacy pages and the standalone packaging-video reference into the nearest relevant explanatory slides; no standalone visual/video-reference pages remain.
+- Retained every safe instructional image using aspect-preserving placement while keeping the current WSQ design system independent of the legacy deck layout.
+- Regenerated Learner Guide v4.1, Lesson Plan v5.1, all eight activity folders and Assessment v2.2 from the revised slide map.
+- Replaced hard-coded slide references in the build pipeline with generated source-to-output mappings so future consolidations remain aligned.
+
 ## v7.0 - 20 Aug 2026
 
 - Rebuilt all 454 slides using the supplied Master Mobile Photography v12.0 design language: white canvas, compact blue/teal/violet section markers, strong left-aligned titles, structured concept cards, full-width flows and evidence-led activity overviews.

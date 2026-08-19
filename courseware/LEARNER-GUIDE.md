@@ -2,7 +2,7 @@
 
 **Course code:** TGS-2024049339
 
-**Version:** 4.0
+**Version:** 4.1
 
 **Release date:** 20 Aug 2026
 
@@ -24,7 +24,7 @@ This guide is the detailed learner reference for the two-day course. The slide d
 
 ## LU1: Fundamentals of Device Physics and Device Fabrication
 
-Alignment: K1 · A1 · A2; PPT slides 16-298.
+Alignment: K1 · A1 · A2; PPT slides 16-287.
 
 ### Semiconductor materials and carrier physics (slides 16-38)
 
@@ -50,7 +50,7 @@ A PN junction forms when p-type and n-type regions meet. Carrier diffusion leave
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### MOSFET and BJT device operation (slides 51-105)
+### MOSFET and BJT device operation (slides 51-104)
 
 MOSFETs control a surface channel electrostatically through the gate oxide, whereas BJTs use injection and collection of minority carriers across two junctions. Their operating regions are not just circuit concepts: geometry, oxide quality, dopant profiles, contacts and thermal history determine threshold, gain, leakage and breakdown.
 
@@ -62,7 +62,7 @@ MOSFETs control a surface channel electrostatically through the gate oxide, wher
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Memory devices and integrated circuits (slides 106-119)
+### Memory devices and integrated circuits (slides 105-118)
 
 Integrated circuits combine devices into logic and memory structures. SRAM stores state in a latch, DRAM stores charge in a capacitor and non-volatile memories use persistent charge or structural states. Architecture determines the critical process features and the tests required at wafer sort.
 
@@ -74,7 +74,7 @@ Integrated circuits combine devices into logic and memory structures. SRAM store
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Wafer fabrication process modules (slides 120-258)
+### Wafer fabrication process modules (slides 119-248)
 
 Wafer fabrication is a repeated pattern of surface preparation, film formation, lithographic definition, material removal or doping, thermal treatment and measurement. Every module leaves a physical state that constrains the next module, so local optimisation can damage total integration performance.
 
@@ -88,7 +88,7 @@ Wafer fabrication is a repeated pattern of surface preparation, film formation, 
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### CMOS integration flows (slides 259-294)
+### CMOS integration flows (slides 249-282)
 
 A CMOS flow coordinates isolation, wells, gate stacks, source-drain structures, contacts and interconnects. The process is best understood as a sequence of structural transformations with verification gates, not as an isolated list of tool recipes.
 
@@ -100,7 +100,7 @@ A CMOS flow coordinates isolation, wells, gate stacks, source-drain structures, 
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Layout and design rules (slides 295-298)
+### Layout and design rules (slides 284-287)
 
 Layout converts electrical intent into mask geometry. Design rules set conservative minimum widths, spaces, overlaps and enclosures so normal process variation does not produce opens, shorts or unreliable structures.
 
@@ -114,9 +114,9 @@ Check your understanding: Explain how variation in this area could propagate to 
 
 ## LU2: Process Integration Issues
 
-Alignment: K2 · A3 · A4 · A5; PPT slides 299-440.
+Alignment: K2 · A3 · A4 · A5; PPT slides 288-422.
 
-### Isolation, wells and self-aligned modules (slides 299-315)
+### Isolation, wells and self-aligned modules (slides 288-304)
 
 Process integration begins with interactions that span modules. LOCOS, shallow trench isolation, well formation, self-aligned gates, extensions and silicides all trade geometry, stress, dopant placement, thermal budget and defect risk.
 
@@ -128,7 +128,7 @@ Process integration begins with interactions that span modules. LOCOS, shallow t
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Contamination, yield and process variation (slides 316-364)
+### Contamination, yield and process variation (slides 305-353)
 
 Yield converts process performance into the fraction of good die. Contamination, defects, wafer handling and parameter variation accumulate across hundreds of operations, making clean environments, SPC, inspection and spatial analysis essential.
 
@@ -141,7 +141,7 @@ Yield converts process performance into the fraction of good die. Contamination,
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Device performance characterisation (slides 365-373)
+### Device performance characterisation (slides 354-362)
 
 Performance verification compares measured device behaviour with specification and process intent. Physical measurements explain structure, parametric electrical tests quantify device response, and wafer-sort patterns reveal whether the integration result is stable across the wafer and lot.
 
@@ -153,7 +153,7 @@ Performance verification compares measured device behaviour with specification a
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Device reliability and failure mechanisms (slides 374-385)
+### Device reliability and failure mechanisms (slides 363-373)
 
 Reliability addresses performance over time and stress. Hot-carrier degradation, time-dependent dielectric breakdown and electromigration affect different structures and produce different signatures, so stress conditions and failure analysis must match the suspected mechanism.
 
@@ -165,7 +165,7 @@ Reliability addresses performance over time and stress. Hot-carrier degradation,
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Assembly, packaging and final test (slides 386-419)
+### Assembly, packaging and final test (slides 374-406)
 
 Back-end assembly transforms tested wafers into protected, connected products. Thinning, singulation, die attach, wire or flip-chip bonding, sealing and final test introduce mechanical, thermal and interfacial risks that interact with wafer-fabrication reliability.
 
@@ -177,7 +177,7 @@ Back-end assembly transforms tested wafers into protected, connected products. T
 
 Check your understanding: Explain how variation in this area could propagate to yield, performance or reliability, and name the evidence needed to verify the link.
 
-### Optimisation and emerging technologies (slides 420-440)
+### Optimisation and emerging technologies (slides 407-422)
 
 Integration optimisation is a controlled learning cycle: define the issue, contain risk, verify causes, change the process and prove effectiveness. Advanced packaging, heterogeneous integration, FinFETs, gate-all-around devices, vertical devices and new channel materials increase the importance of cross-module trade-offs.
 
@@ -195,7 +195,7 @@ Check your understanding: Explain how variation in this area could propagate to 
 
 **Alignment:** K1 · A1
 
-**PPT alignment:** concept slides 18-105; activity overview slide 441
+**PPT alignment:** concept slides 18-104; activity overview slide 423
 
 **Duration:** 35 minutes
 
@@ -241,7 +241,7 @@ Troubleshooting:
 
 **Alignment:** A1
 
-**PPT alignment:** concept slides 120-258; activity overview slide 442
+**PPT alignment:** concept slides 119-248; activity overview slide 424
 
 **Duration:** 40 minutes
 
@@ -287,7 +287,7 @@ Troubleshooting:
 
 **Alignment:** A2
 
-**PPT alignment:** concept slides 259-298; activity overview slide 443
+**PPT alignment:** concept slides 249-287; activity overview slide 425
 
 **Duration:** 50 minutes
 
@@ -333,7 +333,7 @@ Troubleshooting:
 
 **Alignment:** A3
 
-**PPT alignment:** concept slides 141-217; activity overview slide 444
+**PPT alignment:** concept slides 138-209; activity overview slide 426
 
 **Duration:** 45 minutes
 
@@ -379,7 +379,7 @@ Troubleshooting:
 
 **Alignment:** A3
 
-**PPT alignment:** concept slides 218-237; activity overview slide 445
+**PPT alignment:** concept slides 210-228; activity overview slide 427
 
 **Duration:** 45 minutes
 
@@ -425,7 +425,7 @@ Troubleshooting:
 
 **Alignment:** K2 · A4
 
-**PPT alignment:** concept slides 316-373; activity overview slide 446
+**PPT alignment:** concept slides 305-362; activity overview slide 428
 
 **Duration:** 55 minutes
 
@@ -471,7 +471,7 @@ Troubleshooting:
 
 **Alignment:** K2 · A4
 
-**PPT alignment:** concept slides 374-385; activity overview slide 447
+**PPT alignment:** concept slides 363-373; activity overview slide 429
 
 **Duration:** 45 minutes
 
@@ -517,7 +517,7 @@ Troubleshooting:
 
 **Alignment:** A5
 
-**PPT alignment:** concept slides 420-440; activity overview slide 448
+**PPT alignment:** concept slides 407-422; activity overview slide 430
 
 **Duration:** 60 minutes
 
