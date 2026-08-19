@@ -8,6 +8,8 @@ courseware/assets/
 courseware/build/
 courseware/qa/
 courseware/archive/
+courseware/ASSET-REGISTER.md
+courseware/slide_map.json
 *.tmp
 ~$*
 __pycache__/
