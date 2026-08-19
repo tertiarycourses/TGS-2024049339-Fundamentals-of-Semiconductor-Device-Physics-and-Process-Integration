@@ -1,0 +1,5 @@
+split,implant_dose_rel,implant_energy_keV,anneal_temp_C,anneal_time_s,sheet_res_ohm_sq,junction_depth_nm,vt_V,leakage_nA
+baseline,1.0,12,1020,5,820,34,0.44,18
+revised,1.0,12,1060,8,760,43,0.38,42
+split_A,0.98,12,1040,5,790,37,0.42,23
+split_B,1.0,12,1040,8,775,40,0.4,31
